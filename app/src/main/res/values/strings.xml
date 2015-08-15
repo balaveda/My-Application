@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyApp!</string>
+    <string name="app_name">Enter Pizza Details</string>
+    <string name="marks">Enter Marks: </string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="modify">Edit</string>
+    <string name="view">View</string>
+    <string name="view_all">Show List</string>
+    <string name="show_info">About Us</string>
+    <string name="action_settings">Action Settings</string>
+
+</resources>
